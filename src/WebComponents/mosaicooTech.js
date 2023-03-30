@@ -1,3 +1,4 @@
+
 class MosaicooTech extends HTMLElement{
     constructor(){
         super()
@@ -5,3 +6,4 @@ class MosaicooTech extends HTMLElement{
     }
 }
 customElements.define("mosaicoo-tech",MosaicooTech)
+
